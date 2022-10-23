@@ -21,6 +21,11 @@
 
 
 module Arithmetic_Operators_tb(
+//     1) Decalre local reg and wire identifiers
+//     2) Instatiat the module under test (unit under test UUT)
+//     3) Specify a stopwatch to stop the simulation
+//     4) Generate stimuli using initial and always
+//     5) Display the output resonse (text, graph)
     );
 //     1) Decalre local reg and wire identifiers
     parameter n = 4;
